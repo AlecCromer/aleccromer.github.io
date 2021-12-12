@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c0a3b02-ddff-4dfe-b03a-2f3662f20bf5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art-and-graphics.html" beforeDir="false" afterPath="$PROJECT_DIR$/art-and-graphics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-classification-system.html" beforeDir="false" afterPath="$PROJECT_DIR$/image-classification-system.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/about-me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/art-and-graphics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/dist/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/dist/js/maincb21.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/image-classification-system.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/maya-scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/modeling-and-animation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/personal-projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/radiology-information-system.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/resume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cromeralec.myportfolio.com/site/translationscb21" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maya-scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/maya-scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeling-and-animation.html" beforeDir="false" afterPath="$PROJECT_DIR$/modeling-and-animation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal-projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radiology-information-system.html" beforeDir="false" afterPath="$PROJECT_DIR$/radiology-information-system.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="11" />
+          <entry key="html" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="11" />
+          <entry key="HTML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -54,19 +59,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resume.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about-me.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+            <state relative-caret-position="484">
+              <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -81,12 +77,14 @@
       <find>https://pro2-bar-s3-cdn-cf6.myportfolio.com/6cb08496-3719-4da6-84f5-4acbd62a57a5/7944009d-7021-4f63-bd24-18cbd53128eb.JPG?h=bcfc5a97e941433fdb40b6fbe76bdce2</find>
       <find>https://pro2-bar-s3-cdn-cf6.myportfolio.com/6cb08496-3719-4da6-84f5-4acbd62a57a5/73362d93-ca8c-4c02-bded-2ffc12f94ca3_carw_1x1x32.PNG?h=9473973abe58c6d035429ea39b44d7b8</find>
       <find>https://pro2-bar-s3-cdn-cf3.myportfolio.com/6cb08496-3719-4da6-84f5-4acbd62a57a5/485831c5-ba4d-4ab3-8f02-23e73078a2b1_rwc_0x0x378x389x378.PNG?h=bdc85110d3a3e7754ef786b5166a45f6</find>
+      <find>https</find>
+      <find>../</find>
     </findStrings>
     <replaceStrings>
       <replace>/index.html</replace>
       <replace>/files/6cb08496-3719-4da6-84f5-4acbd62a57a5/73362d93-ca8c-4c02-bded-2ffc12f94ca3_carw_1x1x32.PNG?h=9473973abe58c6d035429ea39b44d7b8</replace>
-      <replace />
       <replace>/files/6cb08496-3719-4da6-84f5-4acbd62a57a5/485831c5-ba4d-4ab3-8f02-23e73078a2b1_rwc_0x0x378x389x378.PNG?h=bdc85110d3a3e7754ef786b5166a45f6</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -98,14 +96,14 @@
         <option value="$PROJECT_DIR$/image-classification-system.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/art-and-graphics.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resume.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="503" />
-    <option name="y" value="100" />
+    <option name="x" value="39" />
+    <option name="y" value="63" />
     <option name="width" value="2231" />
     <option name="height" value="1247" />
   </component>
@@ -183,12 +181,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1791801" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1791801" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32973945" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32973945" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -232,25 +230,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maya-scripts.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/personal-projects.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/radiology-information-system.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="22" column="7536" selection-start-line="22" selection-start-column="7536" selection-end-line="22" selection-end-column="7536" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/art-and-graphics.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -268,8 +252,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="420">
           <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/radiology-information-system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="251" column="8" lean-forward="true" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cromeralec.myportfolio.com/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
         </state>
       </provider>
     </entry>
