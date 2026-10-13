@@ -1,0 +1,1184 @@
+{
+  "pages": {
+    "about-me": {
+      "title": "About Me",
+      "description": "",
+      "modules": [
+        {
+          "type": "row",
+          "valign": "top",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 13,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/about-me/01.jpg",
+                  "width": 371,
+                  "ratio": 1.0054,
+                  "caption": "<p>I don't own any suits, I photoshopped this one.</p>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 27,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/about-me/02.gif",
+                  "width": 600,
+                  "ratio": 0.5633,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "<div>Hey there! This is the about me page, and this is the part where I write a few cheesy paragraph about myself. It's a little long I'm sorry, but there's just so much to include!</div><div>My name is Alec Cromer. I am 28&nbsp;year old full-time Senior Software Engineer, and Masters graduate from&nbsp;Texas A&amp;M in Visualization.<span class=\"gap\"></span>The best feeling in the world to me is when I make something that others can enjoy, and using my love of computers I focused on media software&nbsp;as a way to express myself. I grew up editing gaming YouTube videos, and then began coding to create websites and random programs back in high school.&nbsp;I even started a comic dubbing YouTube channel where I managed over a dozen artists, voice actors, editors, and musicians, and our videos helped entertain over half a million people!&nbsp;<span class=\"gap\"></span>I went to the University of North Georgia to get a&nbsp;Computer Science degree. Outside of class I&nbsp;learned more about 3D animation and that I could use my love for software to make games, animations, and movies. Using this, I self&nbsp;taught myself how to 3D model, draw, and rig. Being in a Computer Science program meant that I had limited&nbsp;access to art classes which meant I learned most of my skills independently.&nbsp;I occasionally write scripts, and&nbsp;work on small games in Unity or Unreal Engine. My job keeps me busy so it's been hard to create and finish on these projects.<span class=\"gap\"></span>The world is full of artists, and I've learned just how hard it is to express yourself through digital media. It takes hundreds of hours to study color, modeling, animation, rigging, lighting...etc, and each piece of software is different in how it functions.&nbsp;My intention was to go back to school to get a better understanding of the deeper fundamentals of computer graphics and art to then improve the software and tools we use, to make it easier and faster to create digital art so that everyone&nbsp;can show their creativity to the world.</div><div>Now that I have completed my degree at Texas A&amp;M, I'm one step closer to my dream of helping others create the captivating animations and games that I grew up to love!<br></div>"
+        }
+      ]
+    },
+    "art-and-graphics": {
+      "title": "2D Art and Graphics",
+      "description": "",
+      "modules": [
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Lion</h2><div>A digital painting of a lion gazing upward, its mane breaking apart into a field of speckled, star-like paint.</div><ul class=\"tags\"><li>Digital</li><li>Photoshop</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/art-and-graphics/01.png",
+                  "width": 3840,
+                  "ratio": 0.7132999999999999,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Gallant Gamers Stream Animation</h2><div>A looping \"stream starting soon\" animation made for the <a href=\"https://www.gallantgamers.com/\" target=\"_blank\" rel=\"noopener\">Gallant Gamers</a> veterans charity livestream.</div><ul class=\"tags\"><li>Photoshop</li><li>After Effects</li><li>Premiere</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/art-and-graphics/02.gif",
+                  "width": 960,
+                  "ratio": 0.5617,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 3,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Self Portrait</h2><div>A charcoal self portrait study focused on value, shading, and facial structure.</div><ul class=\"tags\"><li>Charcoal on canvas</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 2,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/art-and-graphics/03.png",
+                  "width": 1920,
+                  "ratio": 1.3333000000000002,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Glasses and Cloth</h2><div>A charcoal still life of glasses, a bowl, and striped cloth, exploring reflective surfaces and the way fabric folds.</div><ul class=\"tags\"><li>Charcoal on canvas</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/art-and-graphics/04.png",
+                  "width": 1920,
+                  "ratio": 0.75,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 3,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Chair</h2><div>A charcoal study of a chair draped in cloth, focusing on soft folds and the fall of light.</div><ul class=\"tags\"><li>Charcoal on canvas</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 2,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/art-and-graphics/05.png",
+                  "width": 1920,
+                  "ratio": 1.3333000000000002,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Wolf</h2><div>A digital painting of a white wolf, with soft fur rendering and subtle color shifts against a black background.</div><ul class=\"tags\"><li>Digital</li><li>Photoshop</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/art-and-graphics/06.png",
+                  "width": 960,
+                  "ratio": 0.75,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Skateboard Kickflip Rotoscope</h2><div>A frame-by-frame rotoscoped line animation of a skateboard kickflip, traced over live-action footage.</div><ul class=\"tags\"><li>Digital</li><li>Photoshop</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/art-and-graphics/07.gif",
+                  "width": 1920,
+                  "ratio": 0.5617,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "",
+      "modules": [
+        {
+          "type": "form"
+        }
+      ]
+    },
+    "maya-scripts": {
+      "title": "Misc. Graphics Projects",
+      "description": "",
+      "modules": [
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Three.js Hair Card Simulation Generator Tool</h2><div>Using WebGL and a hair physics simulation, a user can define sliders that will create an image that can be used as a hair card.</div><ul class=\"tags\"><li>Three.js</li><li>WebGL</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/maya-scripts/01.gif",
+                  "width": 1920,
+                  "ratio": 0.5617,
+                  "caption": null
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/maya-scripts/02.png",
+                      "width": 599,
+                      "ratio": 1.0518,
+                      "caption": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Artificial Intelligence Face Attribute Tool</h2><div>This application allows the user to specify different regions to focus on, as well as including an AI model that can be used to determine the attributes automatically with a positive detection threshold.</div><ul class=\"tags\"><li>Machine learning</li><li>Computer vision</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/maya-scripts/04.png",
+                  "width": 1005,
+                  "ratio": 0.5683,
+                  "caption": null
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/maya-scripts/03.png",
+                      "width": 821,
+                      "ratio": 0.415,
+                      "caption": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 3,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>OpenGL Particle Physics Simulation</h2><div>Physically based movement and collisions. These objects and particles move with forces acting upon them such as wind force, gravity, mass, wind resistance, friction, and elasticity.</div><ul class=\"tags\"><li>OpenGL</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 2,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/maya-scripts/06.gif",
+                  "width": 600,
+                  "ratio": 1,
+                  "caption": null
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/maya-scripts/05.gif",
+                      "width": 600,
+                      "ratio": 1,
+                      "caption": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 3,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Maya Python Planet Generation Tool</h2><div>This script was made to generate planets using height maps. The script can take a height map, wrap it to an object, and then map the hue values from the height map to a given vertex. Add some water and you got a planet!</div><div><a href=\"https://github.com/AlecCromer/MayaScripts/blob/master/height_map_to_geometry.py\" target=\"_blank\" rel=\"noopener\">The full code can be found here on GitHub</a></div><ul class=\"tags\"><li>Maya</li><li>Python</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 2,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/maya-scripts/07.gif",
+                  "width": 540,
+                  "ratio": 1,
+                  "caption": null
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/maya-scripts/08.png",
+                      "width": 1081,
+                      "ratio": 1,
+                      "caption": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Voronoi Normal Map Generator / Viewer</h2><div>A tool that generates normal maps from Voronoi cell patterns, with a viewer to preview how the map shades a surface under moving light.</div><ul class=\"tags\"><li>Normal maps</li><li>Procedural textures</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/maya-scripts/09.gif",
+                  "width": 600,
+                  "ratio": 0.5633,
+                  "caption": null
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/maya-scripts/10.gif",
+                      "width": 500,
+                      "ratio": 0.996,
+                      "caption": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "modeling-and-animation": {
+      "title": "Houdini / Rigging / 3D Art",
+      "description": "",
+      "modules": [
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Summer Industry Course</h2><div>Worked alongside a team to build a twenty second animated short. Project included daily meetings with industry professionals at DreamWorks/Meta to facilitate design and progress.<br></div><div>Responsibilities included project management, rigging lead, and sound lead.</div><ul class=\"tags\"><li>Rigging: Maya</li><li>Bramble bushes: Maya</li><li>Leaves: Houdini</li><li>Editing: Premiere Pro</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/requiem.gif",
+                  "width": 720,
+                  "ratio": 0.5625,
+                  "caption": null
+                },
+                {
+                  "type": "embed",
+                  "src": "https://www.youtube.com/embed/N0JplPk9T_A?si=WD_Ml85IzXCpdWyv"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Shell You Be Mine Scripted Rig</h2><div>This was a joint project, where my primary goal was to create a rig for the <a href=\"https://80.lv/articles/adorable-sea-creature-plushies-made-with-ue5-blender\" target=\"_blank\" rel=\"noopener\">octopus</a>.<span class=\"gap\"></span>This bones and controls were built almost entirely using Python in Maya.</div><ul class=\"tags\"><li>Maya</li><li>Python</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/01.gif",
+                  "width": 800,
+                  "ratio": 0.4183,
+                  "caption": null
+                },
+                {
+                  "type": "embed",
+                  "src": "https://www.youtube.com/embed/yinRrmEpfr4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Houdini MetaHuman Skeleton Automation Tool</h2><div>This project's goal is to allow a user the ability to upload any character, and have a Houdini tool automatically determine the joints/weights needed to build the metahuman skeleton to be used with existing Unreal Engine Metahuman Animation blueprints.&nbsp;<span class=\"gap\"></span>Tool's current abilities include extracting the center of major joint regions based on geometry, and systematically building finger joints based on the wrist position.<br></div><ul class=\"tags\"><li>Houdini</li><li>Python</li><li>VEX</li><li>Unreal Engine 5</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/02.gif",
+                  "width": 800,
+                  "ratio": 0.6,
+                  "caption": null
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/modeling-and-animation/03.png",
+                      "width": 790,
+                      "ratio": 0.7,
+                      "caption": null
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/modeling-and-animation/04.gif",
+                      "width": 800,
+                      "ratio": 0.7417,
+                      "caption": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 3,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Machine Learning (AI) Rigging Study</h2><div>This project explores&nbsp;the feasibility of generating bone structures based on provided geometry. The goal being to prove that artificial intelligence will be instrumental in automating future rigging processes. By creating systems that automatically build bone structures, we save time to allow artists to focus on creating more compelling stories!</div><div>Current developments include a l-system generator and a tube generator that are used to procedurally generate .usda files to be passed into a PyTorch dataloader and neural network.</div><div>Project is being developed with the help of a Technical Artist at Meta</div><ul class=\"tags\"><li>Houdini</li><li>Python</li><li>VEX</li><li>PyTorch</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 2,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/05.jpg",
+                  "width": 1920,
+                  "ratio": 1.3183,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Unreal Engine - Car Commercial</h2><div>Project explored the process of creating a commercial and rendering in Unreal Engine. Commercial features both custom and pre-made assets.</div><ul class=\"tags\"><li>Maya</li><li>Substance Painter</li><li>Regard3D</li><li>Unreal Engine 5</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "embed",
+                  "src": "https://www.youtube.com/embed/z2_Ezk-2oBI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Houdini Procedural Planters</h2><div>Procedurally generated planters with fully customizable parameters, including color, growth, vellum, width/height,&nbsp;and Houdini's tree generator.</div><ul class=\"tags\"><li>Houdini</li><li>Unreal Engine 5</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/06.jpg",
+                  "width": 768,
+                  "ratio": 0.5533,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Houdini Grass System</h2><div>Grass system used in the previous planter system.</div><div>Grass system allows for user controlled attributes such as height, placement randomness, density, color, and grass curves.</div><ul class=\"tags\"><li>Houdini</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/07.gif",
+                  "width": 720,
+                  "ratio": 0.5633,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Unreal Engine 5 VR Experience</h2><div>VR user is shown four different worlds with a voice describing their destiny for whatever option they choose.</div><ul class=\"tags\"><li>Unreal Engine 5</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/08.gif",
+                  "width": 384,
+                  "ratio": 0.5625,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Unreal Engine 5 Particle Animation</h2><div>\"Quantum Physics\" - Particle simulation using the Niagara system which moves the particles&nbsp;along to the audio in the scene.</div><ul class=\"tags\"><li>Unreal Engine 5</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/09.gif",
+                  "width": 384,
+                  "ratio": 0.5625,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 3,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Magnum Wolf Sculpt</h2><div>A stylized wolf character bust sculpted in ZBrush, dressed in a high-collared coat.</div><ul class=\"tags\"><li>ZBrush</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 2,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/10.jpg",
+                  "width": 671,
+                  "ratio": 1.0917000000000001,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Pangolin Sculpt</h2><div>A digital sculpt of a pangolin, built up scale by scale with detailed claws and skin folds.</div><ul class=\"tags\"><li>ZBrush</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/11.jpg",
+                  "width": 884,
+                  "ratio": 0.6433,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Retro Plane Animation</h2><div>A looping synthwave-style flight over a low-poly neon landscape toward a glowing sun. Modeled and animated in Maya, rendered in Blender.</div><ul class=\"tags\"><li>Maya</li><li>Blender</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/12.gif",
+                  "width": 600,
+                  "ratio": 0.5633,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Music Block Animation</h2><div>An animation built with Maya's MASH utilities, where the beat of a song drives the size of the blocks. Modeled and animated in Maya, rendered in Blender.</div><ul class=\"tags\"><li>Maya</li><li>MASH</li><li>Blender</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/modeling-and-animation/13.gif",
+                  "width": 600,
+                  "ratio": 0.5633,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "radiology-information-system": {
+      "title": "Misc. Projects",
+      "description": "",
+      "modules": [
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 3,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Image Classification System</h2><div>This is the Image Classification program I made for my senior year as a Computer Science major at the University of North Georgia.</div><div><a href=\"https://github.com/AlecCromer/Image-Classification-for-Machine-Learning-Systems\" target=\"_blank\" rel=\"noopener\">The repository for this project is located on GitHub</a>.</div><ul class=\"tags\"><li>Java</li><li>JavaFX</li><li>MySQL</li><li>Javaxt</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 2,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/radiology-information-system/01.jpg",
+                  "width": 1700,
+                  "ratio": 1.2933000000000001,
+                  "caption": null
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/02.jpg",
+                      "width": 1760,
+                      "ratio": 1.2933000000000001,
+                      "caption": null
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/03.jpg",
+                      "width": 1700,
+                      "ratio": 1.2933000000000001,
+                      "caption": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Radiology Information System</h2><div>We got the opportunity to work on a fairly large project as part of our Advanced Software Engineering class in an agile environment. This project was to create a PACS (Picture Archiving and Communication System).</div><div>This project entailed following SCRUM procedures, setting up document requirements, scenarios, use cases, sequence diagrams, ER diagrams, access and control policies, programming, testing, documentation, creating user manuals, debugging, and negotiating with our \"client\".<span class=\"gap\"></span>This project was a collaborative effort between 7 individuals who all contributed to the success of our Radiology system. This page is just for a representation of this project that I took great pride in working on.<span class=\"gap\"></span>These documents, code, and more can be found on this<a href=\"https://github.com/AlecCromer/RadiologyInformationSystem\" target=\"_blank\" rel=\"noopener\"> GitHub repo.</a></div><ul class=\"tags\"><li>Java</li><li>JavaFX</li><li>Scrum</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/radiology-information-system/14.png",
+                  "width": 1124,
+                  "ratio": 0.6,
+                  "caption": "<p>The Final Patient editor View<br></p>"
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/04.png",
+                      "width": 761,
+                      "ratio": 1.0617,
+                      "caption": "<p>A small snippet of the research document for what a&nbsp;PACS defines.</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/05.png",
+                      "width": 710,
+                      "ratio": 1.0217,
+                      "caption": "<p>A small snippet of the initial analysis document</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/06.png",
+                      "width": 1672,
+                      "ratio": 0.5667,
+                      "caption": "<p>Use case diagram</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/07.png",
+                      "width": 1336,
+                      "ratio": 0.6567000000000001,
+                      "caption": "<p>relation diagram</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/08.png",
+                      "width": 778,
+                      "ratio": 0.7917000000000001,
+                      "caption": "<p>Class diagram for our database</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/09.png",
+                      "width": 1092,
+                      "ratio": 0.6783,
+                      "caption": "<p>The java documentation for the Patient List Controller for the application</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/10.png",
+                      "width": 1366,
+                      "ratio": 0.5617,
+                      "caption": "<p>This process included designing a page for many of the pages inside the application</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/11.png",
+                      "width": 518,
+                      "ratio": 1.0965,
+                      "caption": "<p>As well as designing more advanced mockups in our proposed language (JavaFX).</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/12.png",
+                      "width": 1090,
+                      "ratio": 0.6333,
+                      "caption": "<p>Passing test cases in our testing document</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/13.png",
+                      "width": 789,
+                      "ratio": 0.365,
+                      "caption": "<p>Failing test cases in our testing document</p>"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/radiology-information-system/15.png",
+                      "width": 1200,
+                      "ratio": 0.7317,
+                      "caption": "<p>The Final Appointment editor View</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 3,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Discord Gacha Bot</h2><div>This bot was created by parsing a couple different websites to gather data on a character's show, description, image URLs...etc. from both a Disney and Anime website. This resulted in a database of over 50,000 characters.&nbsp;<span class=\"gap\"></span>The bot itself was made in Java using multithreading, Discord JDA, MySQL, and currently runs 24/7 on a Raspberry Pi.</div><div><a href=\"https://github.com/AlecCromer/DiscordGachaBot\" target=\"_blank\" rel=\"noopener\">View the code on GitHub</a></div><ul class=\"tags\"><li>Java</li><li>Discord JDA</li><li>MySQL</li><li>Raspberry Pi</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 2,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/radiology-information-system/16.jpg",
+                  "width": 999,
+                  "ratio": 0.9967,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "valign": "center",
+          "items": [
+            {
+              "type": "stack",
+              "flex": 9,
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h2>Selenium Purchasing Bot</h2><div>This bot checks an items list and spins up a selenium thread for every&nbsp;best buy link entered. The website updates automatically, and when the text changes to \"Add to Cart\", the bot presses the item, plays a sound effect, and navigates to the checkout menu to lock in the item.</div><div>Built in Java using multithreading.</div><ul class=\"tags\"><li>Java</li><li>Selenium</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "flex": 11,
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/radiology-information-system/17.jpg",
+                  "width": 1042,
+                  "ratio": 0.7933,
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "resume": {
+      "title": "Resume",
+      "description": "",
+      "modules": [
+        {
+          "type": "image",
+          "src": "assets/resume/01.jpg",
+          "width": 1700,
+          "ratio": 1.2933000000000001,
+          "caption": null
+        }
+      ]
+    }
+  },
+  "nav": [
+    {
+      "href": "/home",
+      "label": "Portfolio"
+    },
+    {
+      "href": "/modeling-and-animation",
+      "label": "Houdini / Rigging / 3D Art"
+    },
+    {
+      "href": "/maya-scripts",
+      "label": "Misc. Graphics Projects"
+    },
+    {
+      "href": "/art-and-graphics",
+      "label": "2D Art and Graphics"
+    },
+    {
+      "href": "/radiology-information-system",
+      "label": "Misc. Projects"
+    }
+  ],
+  "navPages": [
+    {
+      "href": "/resume",
+      "label": "Resume"
+    },
+    {
+      "href": "/about-me",
+      "label": "About Me"
+    },
+    {
+      "href": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "title": "Alec Cromer",
+  "tagline": "Technical artist & software engineer building rigs, Houdini tools, and 3D art.",
+  "description": "",
+  "mastheadVideo": "assets/video/reel.mp4",
+  "mastheadButton": {
+    "href": "https://youtu.be/-0BRfKrFzoQ",
+    "label": "Demo Reel"
+  },
+  "covers": [
+    {
+      "href": "/modeling-and-animation",
+      "title": "Houdini / Rigging / 3D Art",
+      "img": "assets/covers/01.gif"
+    },
+    {
+      "href": "/maya-scripts",
+      "title": "Misc. Graphics Projects",
+      "img": "assets/covers/02.gif"
+    },
+    {
+      "href": "/art-and-graphics",
+      "title": "2D Art and Graphics",
+      "img": "assets/covers/03.png"
+    },
+    {
+      "href": "/radiology-information-system",
+      "title": "Misc. Projects",
+      "img": "assets/covers/04.png"
+    }
+  ]
+}
